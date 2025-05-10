@@ -25,7 +25,7 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/dipsonthapa) 
-- 📝 [Portfolio]((https://dipsonthapa.com.np/))
+- 📝 [Portfolio](https://dipsonthapa.com.np)
 - 📧 [Email](mailto:dipsonthaapa@gmail.com)
 
 
