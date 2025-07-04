@@ -19,7 +19,6 @@
 ### 📈 Current Interests
 - Deep Learning & AI  
 - Backend Development  
-- UI/UX Design  
 - Open Source Contribution  
 
 ---
