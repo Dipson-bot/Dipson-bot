@@ -1,4 +1,4 @@
-## 👋 Hi, I'm an Undergraduate Computer Engineering Student from Nepal
+## 👋An Undergrad Computer Engineering Student from Nepal
 
 🎓 I am currently pursuing my Bachelor's degree in Computer Engineering at **Nepal Engineering College**.
   - Currently working on a project "Ishara Setu" A Nepali Sign Language Detection System.
