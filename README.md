@@ -1,6 +1,6 @@
-## 👋Computer Engineering Graduate from Nepal Engineering College
+## 👋Computer Engineer
 
-🎓 I am a Computer Engineering Graduate from **Nepal Engineering College**.
+🎓 I am a Computer Engineer**.
   - Currently working on a research based project "Ishara Setu" A Nepali Sign Language Detection System.
 💻 Passionate about software development, machine learning, and building practical solutions through code.  
 🚀 Always eager to learn new technologies, contribute to open-source, and collaborate on exciting projects.
